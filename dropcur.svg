@@ -6,7 +6,7 @@
     width="480" 
     height="480" 
     fill="none" 
-    stroke="var(--color)" 
+    stroke="currentColor" 
     stroke-width="20"
   />
 
@@ -15,7 +15,7 @@
        C256 80, 140 220, 140 300 
        A116 116 0 0 0 372 300 
        C372 220, 256 80, 256 80 Z"
-    fill="var(--color)"
+    fill="currentColor"
   />
 
 </svg>
