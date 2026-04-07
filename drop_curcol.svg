@@ -1,35 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
 
-<svg
-   width="21.525032"
-   height="20.798952"
-   viewBox="0 0 5.6951646 5.503056"
-   version="1.1"
-   id="svg1"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs1">
-    <color-profile
-       name="Agfa-:-Swop-Standard"
-       xlink:href="../../../../Windows/system32/spool/drivers/color/RSWOP.icm"
-       id="color-profile1" />
-  </defs>
-  <g
-     id="layer1"
-     transform="translate(-0.32221052,-0.45428523)">
-    <rect
-       style="fill:currentColor;fill-opacity:0;stroke:#010101;stroke-width:0.1;stroke-dasharray:none;paint-order:stroke markers fill"
-       id="rect1"
-       width="5.5951648"
-       height="5.4030561"
-       x="0.37221053"
-       y="0.50428522" />
-    <path
-       style="fill:currentColor;fill-opacity:1;stroke:#010101;stroke-width:0.1;stroke-dasharray:none;paint-order:stroke markers fill"
-       d="M 3.6020375,1.0686045 C 2.4240823,2.073151 1.4932787,2.9475419 1.5128557,3.8301665 1.5288081,4.5493736 2.3575032,5.3238183 3.0737387,5.3910495 3.8724474,5.4660223 4.6752432,4.9998084 4.7907098,4.2263906 4.9104518,3.4243353 4.1600575,3.2570149 3.7701326,2.533433 3.561976,2.1471578 3.6020375,1.0686045 3.6020375,1.0686045 Z"
-       id="path1" />
-  </g>
-</svg>
+  <!-- Рамка -->
+  <rect 
+    x="16" 
+    y="16" 
+    width="480" 
+    height="480" 
+    fill="none" 
+    stroke="currentColor" 
+    stroke-width="20"
+  />
+
+  <!-- Крапля -->
+  <path 
+    d="M256 80 
+       C256 80, 140 220, 140 300 
+       A116 116 0 0 0 372 300 
+       C372 220, 256 80, 256 80 Z"
+    fill="currentColor"
+  />
