@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="21.525032"
-   height="20.798952"
-   viewBox="0 0 5.6951646 5.503056"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
    version="1.1"
    id="svg1"
    inkscape:export-filename="drop_rr.svg"
@@ -18,7 +18,7 @@
   <sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"
-     bordercolor="#000000"
+     bordercolor="currentColor"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
@@ -35,7 +35,7 @@
        spacingy="1"
        empcolor="#0099e5"
        empopacity="0.30196078"
-       color="#0099e5"
+       color="currentColor"
        opacity="0.14901961"
        empspacing="5"
        enabled="true"
@@ -69,7 +69,7 @@
        x="0.37221053"
        y="0.50428522" />
     <path
-       style="fill:#418cce;fill-opacity:1;stroke:#010101;stroke-width:0.1;stroke-dasharray:none;paint-order:stroke markers fill"
+       style="fill:currentColor;fill-opacity:1;stroke:#010101;stroke-width:0.1;stroke-dasharray:none;paint-order:stroke markers fill"
        d="M 3.6020375,1.0686045 C 2.4240823,2.073151 1.4932787,2.9475419 1.5128557,3.8301665 1.5288081,4.5493736 2.3575032,5.3238183 3.0737387,5.3910495 3.8724474,5.4660223 4.6752432,4.9998084 4.7907098,4.2263906 4.9104518,3.4243353 4.1600575,3.2570149 3.7701326,2.533433 3.561976,2.1471578 3.6020375,1.0686045 3.6020375,1.0686045 Z"
        id="path1"
        sodipodi:nodetypes="cssssc" />
