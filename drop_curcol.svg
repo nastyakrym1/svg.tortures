@@ -21,14 +21,14 @@
      id="layer1"
      transform="translate(-0.32221052,-0.45428523)">
     <rect
-       style="fill:currentColor;fill-opacity:0;stroke:#010101;stroke-width:0.1;stroke-dasharray:none;paint-order:stroke markers fill"
+       style="fill:currentColor"
        id="rect1"
        width="5.5951648"
        height="5.4030561"
        x="0.37221053"
        y="0.50428522" />
     <path
-       style="fill:currentColor;fill-opacity:1;stroke:#010101;stroke-width:0.1;stroke-dasharray:none;paint-order:stroke markers fill"
+       style="fill:currentColor"
        d="M 3.6020375,1.0686045 C 2.4240823,2.073151 1.4932787,2.9475419 1.5128557,3.8301665 1.5288081,4.5493736 2.3575032,5.3238183 3.0737387,5.3910495 3.8724474,5.4660223 4.6752432,4.9998084 4.7907098,4.2263906 4.9104518,3.4243353 4.1600575,3.2570149 3.7701326,2.533433 3.561976,2.1471578 3.6020375,1.0686045 3.6020375,1.0686045 Z"
        id="path1" />
   </g>
